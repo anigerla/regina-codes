@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.a143dcc8.css",
-    "main.js": "/static/js/main.7752a603.js",
+    "main.css": "/static/css/main.5f14a321.css",
+    "main.js": "/static/js/main.4eadab42.js",
     "static/media/agnico.gif": "/static/media/agnico.6bf58b4ac0010c503793.gif",
     "static/media/airbnb.gif": "/static/media/airbnb.d7108c9e786c404162a6.gif",
     "static/media/caseys.gif": "/static/media/caseys.dd5342e30e91190a61c9.gif",
-    "static/media/aris-gold.png": "/static/media/aris-gold.49c89c1efe83d22a5722.png",
-    "static/media/evgo.png": "/static/media/evgo.6f27e518c1fde27442db.png",
-    "static/media/ford.png": "/static/media/ford.7006a51910f1233e2d95.png",
-    "static/media/vintage-wines.png": "/static/media/vintage-wines.3e4ed7e9099bb12a1b7e.png",
-    "static/media/bmw.png": "/static/media/bmw.add231dda651bd250fd0.png",
-    "static/media/intrepid_potash.png": "/static/media/intrepid_potash.5e56595229946392bb29.png",
-    "static/media/volta.png": "/static/media/volta.ea8018606c66158d8b05.png",
-    "static/media/enviva.png": "/static/media/enviva.ccf97eec541e1fdbb958.png",
-    "static/media/invitation_homes.png": "/static/media/invitation_homes.a2bc19b8f1ba91b35858.png",
-    "static/media/citius-pharma.png": "/static/media/citius-pharma.701b3b21cae63d26bf07.png",
-    "static/media/licycle.png": "/static/media/licycle.64632f737f94645e6e54.png",
+    "static/media/aris-gold.png": "/static/media/aris-gold.110fa58fca3a69379f51.png",
+    "static/media/evgo.png": "/static/media/evgo.5336f4f462939c9a2d55.png",
+    "static/media/vintage-wines.png": "/static/media/vintage-wines.8e3669bc110ad5962bac.png",
+    "static/media/ford.png": "/static/media/ford.09455009057f539c6ab5.png",
+    "static/media/bmw.png": "/static/media/bmw.468ecfe3b9376e21a00c.png",
+    "static/media/volta.png": "/static/media/volta.ed24907ce1c612be0b37.png",
+    "static/media/intrepid_potash.png": "/static/media/intrepid_potash.1eaea98e83be437954ac.png",
+    "static/media/enviva.png": "/static/media/enviva.abb537bdd0c9bcb9ee28.png",
+    "static/media/invitation_homes.png": "/static/media/invitation_homes.4c508a6db300f1d2cde8.png",
+    "static/media/licycle.png": "/static/media/licycle.bfd1004c71ab79cf5fc0.png",
+    "static/media/citius-pharma.png": "/static/media/citius-pharma.5e6f1bbe384698c6bd35.png",
     "static/media/logo.svg": "/static/media/logo.d6b7b10d9429e407f7c3e4e03c825030.svg",
     "index.html": "/index.html",
-    "main.a143dcc8.css.map": "/static/css/main.a143dcc8.css.map",
-    "main.7752a603.js.map": "/static/js/main.7752a603.js.map"
+    "main.5f14a321.css.map": "/static/css/main.5f14a321.css.map",
+    "main.4eadab42.js.map": "/static/js/main.4eadab42.js.map"
   },
   "entrypoints": [
-    "static/css/main.a143dcc8.css",
-    "static/js/main.7752a603.js"
+    "static/css/main.5f14a321.css",
+    "static/js/main.4eadab42.js"
   ]
 }
