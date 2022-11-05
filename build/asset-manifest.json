@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f14a321.css",
-    "main.js": "/static/js/main.4eadab42.js",
+    "main.css": "/static/css/main.e6357112.css",
+    "main.js": "/static/js/main.f731a673.js",
     "static/media/agnico.gif": "/static/media/agnico.6bf58b4ac0010c503793.gif",
     "static/media/airbnb.gif": "/static/media/airbnb.d7108c9e786c404162a6.gif",
     "static/media/caseys.gif": "/static/media/caseys.dd5342e30e91190a61c9.gif",
@@ -18,11 +18,11 @@
     "static/media/citius-pharma.png": "/static/media/citius-pharma.5e6f1bbe384698c6bd35.png",
     "static/media/logo.svg": "/static/media/logo.d6b7b10d9429e407f7c3e4e03c825030.svg",
     "index.html": "/index.html",
-    "main.5f14a321.css.map": "/static/css/main.5f14a321.css.map",
-    "main.4eadab42.js.map": "/static/js/main.4eadab42.js.map"
+    "main.e6357112.css.map": "/static/css/main.e6357112.css.map",
+    "main.f731a673.js.map": "/static/js/main.f731a673.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f14a321.css",
-    "static/js/main.4eadab42.js"
+    "static/css/main.e6357112.css",
+    "static/js/main.f731a673.js"
   ]
 }

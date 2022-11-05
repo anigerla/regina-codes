@@ -143,7 +143,8 @@ ul.navbar>li a:hover {
 }
 
 .gradient_background.q4inc {
-    background: linear-gradient(-87deg, #ffcb2a, #FFA046, #ff7142, #ff6043);
+    background: linear-gradient(-87deg, #ffcb2a, #FFA046, #ff7142, #fd6549);
+    background-size: 400% 400%;
 }
 
 @keyframes gradient {
@@ -186,16 +187,17 @@ h2 {
     align-items: center;
 }
 
-.splide_pagination {
-    bottom: -2.5em;
+.splide__pagination.splide__pagination--ltr {
+    bottom: -2.5em !important;
 }
 
-.splide__arrow--prev {
-    left: -5em;
+.splide__pagination.splide__pagination--ltr .splide__pagination__page {
+    background: #fffbfb;
+    border: 1px solid var(--clr-dark);
 }
 
-.splide__arrow--next {
-    right: -5em;
+.splide__pagination.splide__pagination--ltr .splide__pagination__page.is-active {
+    background: var(--clr-dark);
 }
 
 .dark_background {
@@ -287,6 +289,9 @@ img {
 }
 
 @media (max-width: 453px) {
+    .content {
+        padding: 1em;
+    }
     .content img {
         width: 200px;
         height: 200px;
@@ -366,6 +371,10 @@ img {
     .autotrader .portfolio {
         justify-content: center;
     }
+
+    .autotrader .portfolio > div {
+        width: 100%;
+    }
 }
 
 .text {
@@ -373,6 +382,14 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.text ul {
+    padding-left: 0px;
+}
+
+.freelance {
+    position: relative;
 }
 
 .environmental {
@@ -390,7 +407,6 @@ img {
     background-color: #FFA046;
     border-radius: 50%;
     box-shadow: 38px 0px 37px -17px lightgrey;
-    position: relative;
     margin: 0 auto;
 }
 
@@ -401,8 +417,8 @@ img {
     background-color: var(--clr-primary);
     position: absolute;
     border-radius: 50%;
-    bottom: 1%;
-    right: -13%;
+    top: 35%;
+    left: 11%;
 }
 
 @media (max-width: 588px) {
@@ -410,7 +426,18 @@ img {
         width: 100%;
     }
     .circle {
-        display: none;
+        position: absolute;
+        bottom: 2%;
+        right:10%;
+        height: 100px;
+        width: 100px;
+    }
+
+    .circle:after {
+        height: 50px;
+        width: 50px;
+        bottom: 6%;
+        left: -15%;
     }
 }
 
@@ -438,8 +465,12 @@ img {
     display: flex;
     justify-content: space-around;
     list-style-type: none;
+    padding-left: 0px;
 }
 
-.splide__pagination {
-    bottom: -2.5em;
+@media (max-width: 382px) {
+    .footer ul {
+        flex-direction: column;
+        align-items: center;
+    }
 }

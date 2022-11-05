@@ -5,7 +5,7 @@ export default function Navbar() {
         <div className="nav-container">
         <nav className="menu">
             <div className="logo">
-                <a href="#">Regina's Portfolio</a>
+                <a href="#top">Regina's Portfolio</a>
             </div>
             <ul className="navbar">
                 <li><a href="#top">Home</a></li>

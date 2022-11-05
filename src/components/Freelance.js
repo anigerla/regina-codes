@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Freelance() {
     return (
-        <div className="content_card">
+        <div className="content_card freelance">
             <h2>Freelance Work</h2>
             <div>
                 <article className="environmental">
