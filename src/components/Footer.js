@@ -1,5 +1,5 @@
 import React from "react"
-import Lottie from "lottie-react"
+import Lottie from "react-lottie"
 import animationData from "../images/linkedin.json"
 import animationData2 from "../images/email.json"
 import animationData3 from "../images/github.json"

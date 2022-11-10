@@ -137,16 +137,33 @@ ul.navbar>li a:hover {
 .tech-used {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .tech-used li {
     list-style-type: none;
     text-align: center;
+    width: 90px;
+    aspect-ratio: 1 / 1;  
+    /* position: absolute; */
+    top: 100%;
+    left: 0;
+    filter: drop-shadow(0px 3px 3px rgba(0,0,0,.05));
+    transform: translateX(-50%);
+    animation: bubble_float 10s linear forwards;
+  }
+  @keyframes bubble_float {
+    100% { 
+      top: -130px; 
+      transform: translateX(-50%) rotate(360deg); 
+    }
 }
 
 .tech-used li img {
-    border-radius: 50%;
+    /* border-radius: 50%; */
     object-fit: cover;
+    height: 80px;
+    width: 80px;
 }
 
 .section {
@@ -498,22 +515,3 @@ img {
     }
 }
 
-.logo_img {
-    z-index: 999;
-    width: 100px;
-    aspect-ratio: 1 / 1;  
-    /* position: absolute; */
-    top: 100%;
-    left: 0;
-    pointer-events: all;
-    cursor: pointer;
-    filter: drop-shadow(0px 3px 3px rgba(0,0,0,.05));
-    transform: translateX(-50%);
-    animation: bubble_float 10s linear forwards;
-  }
-  /* @keyframes bubble_float {
-    100% { 
-      top: -130px; 
-      transform: translateX(-50%) rotate(360deg); 
-    }
-  } */
