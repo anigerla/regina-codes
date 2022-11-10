@@ -17,9 +17,11 @@ export default function About() {
             <div>
                 <p>I have lived, studied and worked in many countries.</p>
                 <span>*This is just another opportunity to showcase my coding skills. ;)</span><br></br>
-                <span>I used a publicly available mock-up</span>
+                <span className="mockup_source">I used a publicly available mock-up </span>  
+                <a className="mockup_link" href="https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1" 
+                target="_blank" aria-label="opens in a new window">here</a>
             </div>
-            <div className="card_parent">
+            <div className="card_parent content_card">
                 {travel_cards}
            </div>
         </div>

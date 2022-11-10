@@ -8,9 +8,9 @@ export default function TravelCard(props) {
             <div className="card_info">
                 <div className="location_div">
                     <span>{props.country}</span>
-                    <a href={props.mapsUrl}>View on Google Maps</a>
+                    <a className="google_maps" href={props.mapsUrl} target="_blank" aria-label="Opens in a new tab">View on Google Maps</a>
                 </div>
-                <span>`${props.startDate} - ${props.leaveDate}`</span>
+                <span>Length of time: {props.timeSpent}</span>
                 <p>{props.country_summary}</p>
             </div>
             <hr
