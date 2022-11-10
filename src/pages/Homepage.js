@@ -22,8 +22,8 @@ export default function Homepage() {
             <Accessibility />
             <div className="gradient_background q4inc">
                 <div className="section">
-                    <h2>Site Builds at Q4 Inc.</h2>
                     <div className="grid">
+                    <h2>Site Builds at Q4 Inc.</h2>
                         {cards}
                     </div>
                 </div>

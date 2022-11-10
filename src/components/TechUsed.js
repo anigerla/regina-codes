@@ -3,7 +3,7 @@ import react_logo from "../images/react_logo.png"
 import splide_logo from "../images/splide_logo.png"
 import firebase_logo from "../images/firebase_logo.png"
 import html_logo from "../images/html_logo.webp"
-import css_logo from "../images/css_logo.png"
+import css_logo from "../images/css_logo.webp"
 import lottie_logo from "../images/lottie_logo.png"
 
 export default function TechUsed() {

@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6357112.css",
-    "main.js": "/static/js/main.7b93d373.js",
+    "main.css": "/static/css/main.e3b46cf2.css",
+    "main.js": "/static/js/main.1e38fc26.js",
     "static/media/agnico.gif": "/static/media/agnico.6bf58b4ac0010c503793.gif",
     "static/media/airbnb.gif": "/static/media/airbnb.d7108c9e786c404162a6.gif",
     "static/media/caseys.gif": "/static/media/caseys.dd5342e30e91190a61c9.gif",
     "static/media/ford.png": "/static/media/ford.09455009057f539c6ab5.png",
     "static/media/bmw.png": "/static/media/bmw.468ecfe3b9376e21a00c.png",
+    "static/media/css_logo.webp": "/static/media/css_logo.8a9cb64261d07da57f4f.webp",
+    "static/media/html_logo.webp": "/static/media/html_logo.9ba5683e5bf3666e5666.webp",
+    "static/media/map_pin_icon.png": "/static/media/map_pin_icon.3c08957abb7f5fedf2b5.png",
     "index.html": "/index.html",
-    "main.e6357112.css.map": "/static/css/main.e6357112.css.map",
-    "main.7b93d373.js.map": "/static/js/main.7b93d373.js.map"
+    "main.e3b46cf2.css.map": "/static/css/main.e3b46cf2.css.map",
+    "main.1e38fc26.js.map": "/static/js/main.1e38fc26.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6357112.css",
-    "static/js/main.7b93d373.js"
+    "static/css/main.e3b46cf2.css",
+    "static/js/main.1e38fc26.js"
   ]
 }

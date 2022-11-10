@@ -14,7 +14,7 @@ export default function About() {
 
     return (
         <div className="travel_page">
-            <div>
+            <div className="intro">
                 <p>I have lived, studied and worked in many countries.</p>
                 <span>*This is just another opportunity to showcase my coding skills. ;)</span><br></br>
                 <span className="mockup_source">I used a publicly available mock-up </span>  
