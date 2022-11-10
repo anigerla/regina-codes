@@ -122,6 +122,7 @@ ul.navbar>li a:hover {
     nav.menu {
         flex-wrap: wrap;
         text-align: center;
+        padding-bottom: 1rem;
     }
 
     .logo,
@@ -144,6 +145,13 @@ ul.navbar>li a:hover {
     list-style-type: none;
     text-align: center;
     width: 90px;
+    height: 90px;
+}
+
+.tech-used li img {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 80px;
     aspect-ratio: 1 / 1;  
     /* position: absolute; */
     top: 100%;
@@ -157,14 +165,7 @@ ul.navbar>li a:hover {
       top: -130px; 
       transform: translateX(-50%) rotate(360deg); 
     }
-}
-
-.tech-used li img {
-    /* border-radius: 50%; */
-    object-fit: cover;
-    height: 80px;
-    width: 80px;
-}
+  }
 
 .section {
     padding: 2em;
@@ -514,4 +515,61 @@ img {
         align-items: center;
     }
 }
+
+  /* Travel Page Styling */
+.travel_page > div:first-child {
+    background-color: #F55A5A;
+    color: var(--clr-white);
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.mockup_source, .mockup_link {
+    font-size: 10px;
+}
+
+.mockup_link {
+    color: var(--clr-white);
+    text-decoration: underline;
+}
+
+.card_parent {
+    padding: 60px 40px 0px 40px;
+}
+
+.card_container {
+    display: flex;
+    padding: 1rem;
+}
+
+.card_container img {
+    width: 125px;
+    height: 168px;
+    border-radius: 5px;
+    object-fit: cover;
+    margin-right: 2rem;
+}
+
+@media (max-width: 768px){
+    .card_container {
+        flex-wrap: wrap;
+    }
+    .card_container img {
+        width: auto;
+        height: auto;
+    }
+    .location_div {
+        margin-top: 20px;
+    }
+}
+
+.card_info {
+    display: flex;
+    flex-direction: column;
+}
+
+.google_maps {
+    margin-left: 5px;
+}
+  /* Travel Page Styling ends */
 

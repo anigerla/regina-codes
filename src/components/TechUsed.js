@@ -1,8 +1,9 @@
 import React from "react"
 import react_logo from "../images/react_logo.png"
 import splide_logo from "../images/splide_logo.png"
+import firebase_logo from "../images/firebase_logo.png"
 import html_logo from "../images/html_logo.webp"
-import css_logo from "../images/css_logo.webp"
+import css_logo from "../images/css_logo.png"
 import lottie_logo from "../images/lottie_logo.png"
 
 export default function TechUsed() {
@@ -27,6 +28,7 @@ export default function TechUsed() {
                 <ul className="tech-used">
                     <li className="logo_img"><img src={react_logo} alt="React" /></li>
                     <li className="logo_img"><img src={splide_logo} alt="Splide slider" /></li>
+                    <li className="logo_img"><img src={firebase_logo} alt="Splide slider" /></li>
                     <li className="logo_img"><img src={html_logo} alt="HTML" /></li>
                     <li className="logo_img"><img src={css_logo} alt="CSS" /></li>
                     <li className="logo_img"><img src={lottie_logo} alt="Lottie Animations" /></li>
