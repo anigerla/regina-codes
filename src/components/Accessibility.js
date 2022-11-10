@@ -1,9 +1,9 @@
-import React from "react";
-import { Splide, SplideSlide } from "@splidejs/react-splide";
-import '@splidejs/react-splide/css';
-import airbnb from "../images/airbnb.gif";
-import agnico from "../images/agnico.gif";
-import caseys from "../images/caseys.gif";
+import React from "react"
+import { Splide, SplideSlide } from "@splidejs/react-splide"
+import "@splidejs/react-splide/css"
+import airbnb from "../images/airbnb.gif"
+import agnico from "../images/agnico.gif"
+import caseys from "../images/caseys.gif"
 
 export default function Accessibility() {
     return (
