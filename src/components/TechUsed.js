@@ -10,7 +10,7 @@ export default function TechUsed() {
     // function floatImg() {
     //     const imgEls = document.getElementsByClassName('logo_img');
     //     for (const imgEl of imgEls) {
-    //         const randomNum = Math.random()*100+29;
+    //         let randomNum = Math.random()*100+29;
     //         if (randomNum > 35) {
     //             imgEl.style.height = `${randomNum}px`;
     //             imgEl.style.width = `${randomNum}px`;
