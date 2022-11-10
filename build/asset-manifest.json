@@ -1,28 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.e6357112.css",
-    "main.js": "/static/js/main.f731a673.js",
+    "main.js": "/static/js/main.7b93d373.js",
     "static/media/agnico.gif": "/static/media/agnico.6bf58b4ac0010c503793.gif",
     "static/media/airbnb.gif": "/static/media/airbnb.d7108c9e786c404162a6.gif",
     "static/media/caseys.gif": "/static/media/caseys.dd5342e30e91190a61c9.gif",
-    "static/media/aris-gold.png": "/static/media/aris-gold.110fa58fca3a69379f51.png",
-    "static/media/evgo.png": "/static/media/evgo.5336f4f462939c9a2d55.png",
-    "static/media/vintage-wines.png": "/static/media/vintage-wines.8e3669bc110ad5962bac.png",
     "static/media/ford.png": "/static/media/ford.09455009057f539c6ab5.png",
     "static/media/bmw.png": "/static/media/bmw.468ecfe3b9376e21a00c.png",
-    "static/media/volta.png": "/static/media/volta.ed24907ce1c612be0b37.png",
-    "static/media/intrepid_potash.png": "/static/media/intrepid_potash.1eaea98e83be437954ac.png",
-    "static/media/enviva.png": "/static/media/enviva.abb537bdd0c9bcb9ee28.png",
-    "static/media/invitation_homes.png": "/static/media/invitation_homes.4c508a6db300f1d2cde8.png",
-    "static/media/licycle.png": "/static/media/licycle.bfd1004c71ab79cf5fc0.png",
-    "static/media/citius-pharma.png": "/static/media/citius-pharma.5e6f1bbe384698c6bd35.png",
-    "static/media/logo.svg": "/static/media/logo.d6b7b10d9429e407f7c3e4e03c825030.svg",
     "index.html": "/index.html",
     "main.e6357112.css.map": "/static/css/main.e6357112.css.map",
-    "main.f731a673.js.map": "/static/js/main.f731a673.js.map"
+    "main.7b93d373.js.map": "/static/js/main.7b93d373.js.map"
   },
   "entrypoints": [
     "static/css/main.e6357112.css",
-    "static/js/main.f731a673.js"
+    "static/js/main.7b93d373.js"
   ]
 }
