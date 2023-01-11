@@ -11,7 +11,8 @@ export default function Navbar() {
             <ul className="navbar">
                 <li><Link to="/">Home</Link></li> 
                 <li><Link to="/travel">Travel</Link></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="https://realtor-react-one.vercel.app/" target="_blank">React</a></li>
+                {/* <li><a href="#contact">Contact</a></li> */}
             </ul>
         </nav>
     </div>
